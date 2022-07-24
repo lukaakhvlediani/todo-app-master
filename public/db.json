@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "name": "tbilisi",
+      "weather": "sunny",
+      "UVINDEX": 6,
+      "WIND": "50km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 20,
+      "HUMIDITY": "50%",
+      "VISIBILITY": "16km",
+      "PRESSURE": "1000hPa"
+    },
+    {
+      "id": "2",
+      "name": "batumi",
+      "weather": "sunny",
+      "UVINDEX": 6,
+      "WIND": "50km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 20,
+      "HUMIDITY": "50%",
+      "VISIBILITY": "16km",
+      "PRESSURE": "1000hPa"
+    },
+    {
+      "id": "3",
+      "name": "kobuleti",
+      "weather": "sunny",
+      "UVINDEX": 6,
+      "WIND": "50km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 20,
+      "HUMIDITY": "50%",
+      "VISIBILITY": "16km",
+      "PRESSURE": "1000hPa"
+    },
+    {
+      "id": "4",
+      "name": "kobuleti",
+      "weather": "sunny",
+      "UVINDEX": 6,
+      "WIND": "50km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 20,
+      "HUMIDITY": "50%",
+      "VISIBILITY": "16km",
+      "PRESSURE": "1000hPa"
+    },
+    {
+      "id": "5",
+      "name": "kobuleti",
+      "weather": "sunny",
+      "UVINDEX": 6,
+      "WIND": "50km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 20,
+      "HUMIDITY": "50%",
+      "VISIBILITY": "16km",
+      "PRESSURE": "1000hPa"
+    },
+    {
+      "id": "6",
+      "name": "kobuleti",
+      "weather": "sunny",
+      "UVINDEX": 6,
+      "WIND": "10km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 20,
+      "HUMIDITY": "37%",
+      "VISIBILITY": "16km",
+      "PRESSURE": "1000hPa"
+    },
+    {
+      "id": "7",
+      "name": "kobuleti",
+      "weather": "showers",
+      "UVINDEX": 6,
+      "WIND": "5km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 10,
+      "HUMIDITY": "50%",
+      "VISIBILITY": "12km",
+      "PRESSURE": "1005hPa"
+    },
+    {
+      "id": "8",
+      "name": "kobuleti",
+      "weather": "storm",
+      "UVINDEX": 6,
+      "WIND": "47km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 20,
+      "HUMIDITY": "50%",
+      "VISIBILITY": "16km",
+      "PRESSURE": "100hPa"
+    },
+    {
+      "id": "9",
+      "name": "kobuleti",
+      "weather": "wind",
+      "UVINDEX": 6,
+      "WIND": "50km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 20,
+      "HUMIDITY": "50%",
+      "VISIBILITY": "16km",
+      "PRESSURE": "1000hPa"
+    },
+    {
+      "id": "10",
+      "name": "kobuleti",
+      "weather": "rain",
+      "UVINDEX": 6,
+      "WIND": "50km",
+      "RAINFALL": "0mm",
+      "FEELSLIKE": 20,
+      "HUMIDITY": "5%",
+      "VISIBILITY": "1km",
+      "PRESSURE": "1009hPa"
+    }
+  ]
+}

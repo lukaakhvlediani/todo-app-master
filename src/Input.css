@@ -1,0 +1,23 @@
+.block{
+    display:inline-block;
+   }
+    
+   ul{
+     background-color: #eee;
+     width:50%;
+     margin: 20px auto;
+     border-radius: 6px;
+   }
+    
+   .item{
+     
+     list-style-type: none;
+     border:2px solid #7a8391;
+     background-color: #ffffff;
+     color: rgb(0, 0, 0);
+     border-radius: 5px;
+     display:flex;
+     flex-direction: column;
+     font-weight: 550;
+     margin-bottom: 5px;
+   }
